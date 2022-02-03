@@ -1,0 +1,18 @@
+.grid-table{
+  background-color: rgb(214, 231, 160);
+}
+.Grid {
+  display: flex;
+  flex-direction: column;
+  padding: 30px;
+}
+
+tr {
+  border: 1px solid #141c3a;
+}
+
+table {
+  border: 3px solid #141c3a;
+  border-collapse: collapse;
+  margin: 0 auto;
+}
